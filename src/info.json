@@ -1,0 +1,14 @@
+{
+  "name": "AdjustableInserters",
+  "version": "1.0.0",
+  "title": "Adjustable Inserters",
+  "description": "Freely adjust inserter pickup and drop positions.",
+  "author": "raiguard",
+  "contact": "Discord: raiguard#7402",
+  "homepage": "https://github.com/raiguard/Factorio-AdjustableInserters",
+  "factorio_version": "1.1",
+  "dependencies": [ "base >= 1.1.55", "flib >= 0.10.0" ],
+  "package": {
+    "git_publish_branch": "main"
+  }
+}
